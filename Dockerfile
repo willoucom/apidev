@@ -1,4 +1,4 @@
-FROM php:7-apache-buster
+FROM php:8-apache-buster
 
 ENV TZ=Europe/Paris
 
