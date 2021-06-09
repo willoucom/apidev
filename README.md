@@ -28,6 +28,10 @@ This service only returns a header 200 with an empty body, any requests using GE
 
 The GUI is ugly
 
+## Dev
+
+Run `./dev.sh` to build and run a local container with code mounted in container.
+
 ## Roadmap
 
 - Better GUI
